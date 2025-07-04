@@ -1,55 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Andi
     message: >-
-      Saya membeli meja dan kursi besi minimalis dari meja-kursi.bangunan.co
-      untuk rumah saya, dan hasilnya luar biasa. Desainnya minimalis, kuat, dan
-      sangat sesuai dengan harapan saya.
+      Produk meja dan kursi besi dari meja-kursi.bangunan.co estetis dan sesuai
+      dengan harapan saya.
     response: >-
-      Terima kasih atas kepercayaannya! Kami senang Anda puas dengan meja dan
-      kursi besi dari kami.
+      Kami sangat berterima kasih atas kepercayaan Anda. Terima kasih sudah
+      memilih produk kami.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Rina
+    name: Lina
     message: >-
-      meja-kursi.bangunan.co sangat mempermudah saya dalam membuat meja dan
-      kursi besi yang cocok untuk rumah saya. Hasilnya memenuhi harapan dan
-      sesuai dengan ekspektasi saya.
+      Saya sangat puas dengan bantuan meja-kursi.bangunan.co untuk memilih
+      furnitur besi yang tepat.
     response: >-
-      Kami sangat berterima kasih atas ulasan Anda. Senang mendengar bahwa Anda
-      puas dengan produk dan pelayanan dari kami.
+      Terima kasih banyak atas ulasannya, kami sangat senang mendengar kepuasan
+      Anda.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Ali
+    name: Rizal
     message: >-
-      Saya terkesan dengan meja dan kursi besi dari meja-kursi.bangunan.co.
-      Produk ini sangat modern dan pengirimannya tepat sekali.
+      Meja dan kursi besi dari meja-kursi.bangunan.co modern dan berkualitas.
+      Sangat cocok untuk proyek cafe saya, dan pengirimannya juga terjamin.
     response: Kami sangat senang mendengar bahwa Anda puas dengan produk kami.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Dedi
+    name: Ari
     message: >-
       Produk meja dan kursi besi dari meja-kursi.bangunan.co berkualitas, dan
-      pengirimannya juga cepat untuk proyek saya.
+      pengirimannya juga terjamin untuk proyek saya.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih produk
       kami.
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Lina
+    name: Ayu
     message: >-
       Saya terkesan dengan pelayanan dari meja-kursi.bangunan.co. Produk meja
-      dan kursinya berkualitas dan sesuai dengan keinginan saya.
+      dan kursinya kokoh dan sesuai dengan keinginan saya.
     response: >-
-      Terima kasih! Kami senang dapat melayani Anda melengkapi ruangan dengan
-      furnitur besi minimalis terbaik.
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih produk
+      kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Faisal
+    name: Deni
     message: >-
-      Saya puas dengan produk meja dan kursi besi dari meja-kursi.bangunan.co.
-      Furniturnya berkualitas dan pengirimannya cepat.
+      Meja dan kursi besi dari meja-kursi.bangunan.co sangat cocok dengan
+      kebutuhan renovasi saya. Proses pengirimannya aman dan teratur.
     response: >-
-      Kami gembira mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas kepercayaannya!
+      Terima kasih telah mempercayai produk kami. Kami senang Anda puas dengan
+      hasilnya.
     rating: 5
