@@ -1,58 +1,54 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Budi
-    message: >-
-      Saya membeli meja dan kursi besi minimalis dari meja-kursi.bangunan.co
-      untuk rumah saya, dan hasilnya menakjubkan. Desainnya modern, kokoh, dan
-      sangat sesuai dengan ekspektasi saya.
-    response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih produk
-      kami.
-    rating: 4
-  - avatar: /images/admin/avatar2.png
-    name: Diah
-    message: >-
-      meja-kursi.bangunan.co sangat membantu saya dalam membuat meja dan kursi
-      besi yang cocok untuk rumah saya. Hasilnya sangat memuaskan dan sesuai
-      dengan ekspektasi saya.
-    response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
-      dengan produk dan pelayanan dari kami.
-    rating: 4
-  - avatar: /images/admin/avatar3.png
-    name: Fajar
-    message: >-
-      Meja dan kursi besi dari meja-kursi.bangunan.co sangat estetis dan kokoh.
-      Ideal untuk proyek perumahan saya, dan pengirimannya juga terjamin.
-    response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan meja dan kursi besi
-      berkualitas dengan pelayanan prima.
-    rating: 5
-  - avatar: /images/admin/avatar4.png
-    name: Ari
-    message: >-
-      Saya senang dengan produk meja dan kursi besi dari meja-kursi.bangunan.co.
-      Kualitasnya premium, dan proses pengirimannya juga cepat untuk proyek
-      saya.
-    response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih produk
-      kami.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Sari
-    message: >-
-      Saya puas dengan pelayanan dari meja-kursi.bangunan.co. Produk meja dan
-      kursinya modern dan sesuai dengan keinginan saya.
-    response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih produk
-      kami!
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Rio
     message: >-
-      Saya senang dengan produk meja dan kursi besi dari meja-kursi.bangunan.co.
-      Furniturnya modern dan pengirimannya cepat.
+      Produk meja dan kursi besi dari meja-kursi.bangunan.co kokoh dan sesuai
+      dengan harapan saya.
     response: >-
-      Terima kasih telah mempercayai produk kami. Kami senang Anda puas dengan
+      Terima kasih atas pilihan Anda! Kami senang Anda puas dengan meja dan
+      kursi besi dari kami.
+    rating: 4
+  - avatar: /images/admin/avatar2.png
+    name: Maya
+    message: >-
+      meja-kursi.bangunan.co sangat membantu saya dalam membuat meja dan kursi
+      besi yang cocok untuk rumah saya. Hasilnya memenuhi harapan dan sesuai
+      dengan rencana saya.
+    response: >-
+      Kami sangat berterima kasih atas ulasan Anda. Senang mendengar bahwa Anda
+      puas dengan produk dan layanan dari kami.
+    rating: 4
+  - avatar: /images/admin/avatar3.png
+    name: Faisal
+    message: >-
+      Saya terkesan dengan meja dan kursi besi dari meja-kursi.bangunan.co.
+      Produk ini sangat kokoh dan pengirimannya cepat sekali.
+    response: Kami sangat senang mendengar bahwa Anda puas dengan produk kami.
+    rating: 5
+  - avatar: /images/admin/avatar4.png
+    name: Andi
+    message: >-
+      Produk meja dan kursi besi dari meja-kursi.bangunan.co sangat baik, dan
+      pengirimannya juga efisien untuk proyek saya.
+    response: >-
+      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
+      pilihannya!
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Siti
+    message: >-
+      Pelayanan meja-kursi.bangunan.co luar biasa. Meja dan kursi besi yang saya
+      pesan bermutu dan sesuai dengan harapan saya.
+    response: >-
+      Terima kasih! Kami senang dapat melayani Anda melengkapi proyek dengan
+      furnitur besi minimalis terbaik.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Toni
+    message: >-
+      Meja dan kursi besi dari meja-kursi.bangunan.co sangat sesuai dengan
+      kebutuhan cafe saya. Proses pengirimannya cepat dan efisien.
+    response: >-
+      Terima kasih telah memilih produk kami. Kami senang Anda puas dengan
       hasilnya.
     rating: 5
