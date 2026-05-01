@@ -1,6 +1,6 @@
 ---
 title: Jual Meja Kursi Besi Minimalis di Bantar Gebang Bekasi
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - harga
 description: >-
