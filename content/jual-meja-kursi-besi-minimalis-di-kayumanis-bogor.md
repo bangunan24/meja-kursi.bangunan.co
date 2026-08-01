@@ -1,6 +1,6 @@
 ---
 title: Jual Meja Kursi Besi Minimalis di Kayumanis Bogor
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - harga
 description: >-
