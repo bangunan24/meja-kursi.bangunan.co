@@ -1,6 +1,6 @@
 ---
 title: Jual Meja Kursi Besi Minimalis di Kertamaya Bogor
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - harga
 description: >-
